@@ -1,0 +1,13 @@
+#test2 {
+ 	height: 100px;
+ 	background-color: red;
+ 	border: 1px solid black;
+}
+#test {
+ 	margin-top: 150px;
+ 	padding-top: 100px;
+ 	border: 1px solid red;
+}
+#froala-editor {
+	border: 1px solid blue;
+}
